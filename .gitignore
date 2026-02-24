@@ -1,0 +1,10 @@
+data/videos/
+data/frames/
+data/detections/
+models/
+*.pt
+*.mp4
+*.avi
+*.mov
+*.AVI
+*.jpg
