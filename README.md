@@ -1,3 +1,3 @@
 # XAI Elephants
-### TRUST Lab
+## TRUST Lab
 ### Duke University
